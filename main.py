@@ -172,3 +172,9 @@ Mostre a chave final (menor, porém segura).
 O que falar: “Mesmo com ruído, refinamos a chave final segura.
     """
     )
+
+    st.html("""
+    <div style="position: fixed; bottom: 10px; left: 0; width: 100%; text-align: center; color: #666; font-size:12px;">
+        Created by: Sr. Me. Renan Supremo, Pedro e Mariani
+    </div>
+    """)

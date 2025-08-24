@@ -41,6 +41,6 @@ streamlit run main.py
 
 Projeto desenvolvido por estudantes para o Conince XIII — Faculdade Eduvele (Avaré).
 
-- [Sr. Renan](https://github.com/Renan-RodriguesDEV)
+- [Sr. Me. Renan Supremo](https://github.com/Renan-RodriguesDEV)
 - [Pedro](https://linkedin.com/in/pedro-henrique-8a78a137a)
 - [Mariani](https://github.com/Mariani-D)
